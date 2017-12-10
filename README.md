@@ -1,6 +1,6 @@
-# Testowy klient do zawodów UMPGGK 2017 napisany w Javie
+# Testowy klient do zawodÃ³w UMPGGK 2017 napisany w Javie
 
-Generowanie ruchów w tym kliencie jest zgodne z metod¹ serwera turniejowego.
+Losowy klient dla zawodÃ³w UMPGGK 2017 napisany w Javie, generuje ruchy tÄ… samÄ… metodÄ… co serwer. 
 
 ### Uruchomienie
 
